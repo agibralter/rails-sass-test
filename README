@@ -1,0 +1,2 @@
+`gem install passenger`
+`passenger start`

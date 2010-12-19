@@ -1,0 +1,5 @@
+log/
+db/*.sqlite3
+public/app/javascripts
+public/app/stylesheets
+tmp/

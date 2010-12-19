@@ -1,0 +1,11 @@
+source("http://rubygems.org")
+
+gem("sqlite3-ruby", "1.3.2")
+gem("rack", "1.1.0")
+gem("SystemTimer", "1.2.1", :require => "system_timer")
+gem("rack", "1.1.0")
+gem("rails", "2.3.10")
+gem("haml", "3.1.0.alpha.144")
+gem("sass", "3.1.0.alpha.200")
+gem("compass", "0.11.alpha.4")
+gem("compass-960-plugin", "0.10.0")
